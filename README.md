@@ -5,14 +5,18 @@ Notes on the code for concurrent optimization of structure and its support
 --------------------------------------------------------------------------
 The provided code represents the case of two material phases for the support corresponding to row #3 in Table #8 in the article:
 "Concurrent high-resolution topology optimization of structures and their supports for additive manufacturing"
+
 http://dx.doi.org/10.1007/s00158-020-02835-6
+
 Please cite this article if you are using the provided code for your research. 
 
 The code is based on the original PETSc code for large-scale topology optimization, described in the article:
 "Topology optimization using PETSc: An easy-to-use, fully parallel, open source topology optimization framework"
 https://link.springer.com/article/10.1007/s00158-014-1157-0
+
 See also github repository:
 https://github.com/topopt/TopOpt_in_PETSc
+
 Please cite this article if you are using the provided code for your research. 
 
 Content of the folders:
